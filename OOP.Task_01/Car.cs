@@ -10,6 +10,7 @@ internal sealed class Car
     // Color
     // Speed
     // Price
+
     private string letters;
     private string numbers;
     internal int Id { get; set; }
