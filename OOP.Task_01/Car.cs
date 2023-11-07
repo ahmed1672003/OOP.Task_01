@@ -18,6 +18,7 @@ internal sealed class Car
         set { letters = value; }
         private get { return letters; }
     }
+
     internal string Numbers
     {
         set { numbers = value; }
